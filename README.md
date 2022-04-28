@@ -1,2 +1,2 @@
-# sparta_project
-15일 메이킹챌린지
+# spartacodingclub
+수업시간에 만든 기초 html.
